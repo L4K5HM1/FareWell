@@ -1,4 +1,4 @@
-# ✈️ FareWell
+# ✈️ FareWell-HackTX-Project
 
 **Live website:** [farewell-hacktx.streamlit.app](https://farewell-hacktx.streamlit.app/)
 
